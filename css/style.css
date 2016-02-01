@@ -1,0 +1,55 @@
+a,
+a:hover,
+a:link,
+a:visited,
+a:active {
+  color: #364d63;
+  text-decoration: none;
+}
+
+body {
+  background: url(https://s-media-cache-ak0.pinimg.com/564x/bb/2c/0b/bb2c0b3c4df165de3052906d0d93602d.jpg) fixed center no-repeat;
+  background-size: cover;
+  width: 100%;
+  padding-top: 100px;
+  text-align: center;
+}
+
+textarea:focus,
+input:focus {
+  outline: none;
+}
+
+.entry {
+  padding: 15px;
+  background-color: white;
+  border: 6px solid #4c609a;
+  text-align: left;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-bottom: 30px;
+}
+
+input {
+  font-size: 2em;
+  padding: 5px;
+  border: 6px solid #4c609a;
+  margin: 20px;
+   color: #364d63;
+}
+
+button {
+  font-size: 2em;
+  border: 6px solid #4c609a;
+  background-color: white;
+  margin: 5px;
+   color: #364d63;
+}
+
+h4 {
+  font-size: 2em;
+}
+
+p {
+  font-size: 1.5em;
+}
