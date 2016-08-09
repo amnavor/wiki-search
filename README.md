@@ -1,4 +1,4 @@
-A viewer page for Wikipedia search, using the Wikipedia API. Find it at http://codepen.io/amnavor/full/WrEexw/.
+Returns search results using the Wikipedia API. Find it at http://codepen.io/amnavor/full/WrEexw/.
 
 
 
